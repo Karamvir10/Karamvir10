@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karamvir10
 - 👀 I’m interested in learning new programming languages and frameworks.
-- 🌱 I’m currently learning React
+- 🌱 I’m currently into data analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via email ...
 
